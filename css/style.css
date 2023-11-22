@@ -1,4 +1,13 @@
 body{
-    background-color: black;
+    background-color: antiquewhite;
     color: white ;
+    font-size: 20px;
 }
+h2{
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container{
+    display: flex;
+}
+   
